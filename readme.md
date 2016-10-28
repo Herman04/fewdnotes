@@ -47,3 +47,8 @@ The HTML Skeleton I have Used for web design looks Something like this
 Why do I have to learn these things? Can I just think it and have it appear as a wesite on the web?
 
 Maybe I can! Lemme try #FocusTime
+
+Arranging Boxes on Your Webpage
+
+- Dimensions with Boxes can be tricky but most people do not understand how it works. When you use % (e.g. 100%) you are saying that what ever you are giving a dimension of 100% should basically mirror the dimension of its ancestor. I understand this and I am glad to explain it to anyone who wants to learn more about this.
+- When you say auto, you are saying that whatever you assigning a dimension of auto should use all the space available to it i.e. in its immediate environment.
